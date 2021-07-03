@@ -88,6 +88,7 @@ public class RichEditorActivity extends AppCompatActivity {
             tag = note.tag;
         }else{
             saveFile = new SaveFile(this, type);
+            tag = "";
         }
 
 
@@ -158,7 +159,6 @@ public class RichEditorActivity extends AppCompatActivity {
                 })
                 .setHint(tag)
                 .show();
-        Log.d("tag", tag);
     }
 
     private void initTools(){
