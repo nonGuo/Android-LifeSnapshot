@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">LifeSnapshot</string>
+    <string name="account_balance">Account Balance</string>
+
+    <string name="Sunday">日</string>
+    <string name="Monday">一</string>
+    <string name="Tuesday">二</string>
+    <string name="Wednesday">三</string>
+    <string name="Thursday">四</string>
+    <string name="Friday">五</string>
+    <string name="Saturday">六</string>
+
+    <string name="email">邮箱</string>
+    <string name="password">密码</string>
+    <string name="login">登录</string>
+    <string name="signup">注册</string>
+    <string name="example_email">example@qq.com</string>
+    <string name="pwd_hint">不小于8位字母和数字</string>
+
+    <string name="tag">标签</string>
+    <string name="cancle">取消</string>
+    <string name="confirm">确认</string>
+
+    <string name="tag_input_title">输入标签</string>
+    <string name="tag_input_message">仅支持中英文</string>
+    <string name="tag_input_error_message">内容违规</string>
+
+    <string name="search_hint">按标签搜索</string>
+</resources>
